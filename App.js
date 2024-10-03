@@ -34,7 +34,6 @@ const App = () => {
       }
       }>
         <Stack.Screen name="Chat" component={Lab06Sreen1} />
-        {/* <Stack.Screen name="ProductDetail" component={Lab05_02} /> */}
       </Stack.Navigator>
     </NavigationContainer>
   );
